@@ -1,2 +1,0 @@
-
-after starting,commit, hello git.
